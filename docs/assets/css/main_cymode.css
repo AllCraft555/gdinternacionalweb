@@ -1,0 +1,24 @@
+a {
+	font-size: 50px;
+	text-decoration:none;
+	margin:10px 20px;
+	display:inline-block;
+	background: #04D31E;
+	color:#EEF402;
+	padding:10px 20px;
+	box-shadow: 0px 6px 0px  #04750A;
+
+}
+
+a:hover {
+	box-shadow: 0px 2.5px 0px  #04750A;
+	color:#B2B403;
+	
+
+}
+
+a:active {
+	box-shadow:none;
+	color:#630101;
+
+}
